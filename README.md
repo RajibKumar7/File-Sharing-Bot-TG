@@ -4,7 +4,7 @@
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/CodeXBotz/File-Sharing-Bot
+git clone https://github.com/RajibKumar7/File-Sharing-Bot-TG.git
 cd File-Sharing-Bot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
