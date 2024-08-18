@@ -1,5 +1,5 @@
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/sonali1563/File-sharing-bot-for-codex-Main&branch=koyeb&name=filesharingbot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/RajibKumar7/File-Sharing-Bot-TGMain&branch=koyeb&name=filesharingbot)
 
 
 #### Deploy in your VPS
